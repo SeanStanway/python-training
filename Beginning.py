@@ -60,7 +60,7 @@ print_function('Tuple (Fixed list):', newTuple)
 singleMemeberTuple = tuple(['Single Member'])
 print_function('Tuple (Single entry):', singleMemeberTuple)
 
-print (newLine())
+newLine()
 
 newDictionary = {
     'firstEntry': 'value one',
